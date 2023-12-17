@@ -1,0 +1,15 @@
+E:\Desktop\Programming\Git Projects\Exercises\bin\Debug\net8.0\Exercises.exe
+E:\Desktop\Programming\Git Projects\Exercises\bin\Debug\net8.0\Exercises.deps.json
+E:\Desktop\Programming\Git Projects\Exercises\bin\Debug\net8.0\Exercises.runtimeconfig.json
+E:\Desktop\Programming\Git Projects\Exercises\bin\Debug\net8.0\Exercises.dll
+E:\Desktop\Programming\Git Projects\Exercises\bin\Debug\net8.0\Exercises.pdb
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfoInputs.cache
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfo.cs
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.csproj.CoreCompileInputs.cache
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.sourcelink.json
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.dll
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\refint\Exercises.dll
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.pdb
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\Exercises.genruntimeconfig.cache
+E:\Desktop\Programming\Git Projects\Exercises\obj\Debug\net8.0\ref\Exercises.dll
