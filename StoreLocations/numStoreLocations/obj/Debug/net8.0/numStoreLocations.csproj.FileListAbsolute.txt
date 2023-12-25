@@ -1,0 +1,15 @@
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\bin\Debug\net8.0\numStoreLocations.exe
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\bin\Debug\net8.0\numStoreLocations.deps.json
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\bin\Debug\net8.0\numStoreLocations.runtimeconfig.json
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\bin\Debug\net8.0\numStoreLocations.dll
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\bin\Debug\net8.0\numStoreLocations.pdb
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.AssemblyInfoInputs.cache
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.AssemblyInfo.cs
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.csproj.CoreCompileInputs.cache
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.sourcelink.json
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.dll
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\refint\numStoreLocations.dll
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.pdb
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\numStoreLocations.genruntimeconfig.cache
+E:\Desktop\Programming\Git Projects\Exercises\StoreLocations\numStoreLocations\obj\Debug\net8.0\ref\numStoreLocations.dll

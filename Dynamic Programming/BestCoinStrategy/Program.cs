@@ -45,7 +45,7 @@ public static class CoinGameSolver
             return new GameStrategy(0, coinValueList[0]);
         GameStrategy right = GetCoinStrategy(coinValueList[1..]);
         GameStrategy left = GetCoinStrategy(coinValueList[..^1]);
-
+        someArray[2..];
         if (coinValueList.Length % 2 == 0)
         {
             return AlicesTurn(coinValueList, right, left);
