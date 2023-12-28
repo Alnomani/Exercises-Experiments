@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\numStoreLocations.csproj": {}
+    "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\NumStoreLocations.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\numStoreLocations.csproj": {
+    "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\NumStoreLocations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\numStoreLocations.csproj",
-        "projectName": "numStoreLocations",
-        "projectPath": "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\numStoreLocations.csproj",
+        "projectUniqueName": "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\NumStoreLocations.csproj",
+        "projectName": "NumStoreLocations",
+        "projectPath": "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\NumStoreLocations.csproj",
         "packagesPath": "C:\\Users\\Alzarin\\.nuget\\packages\\",
         "outputPath": "E:\\Desktop\\Programming\\Git Projects\\Exercises\\StoreLocations\\numStoreLocations\\obj\\",
         "projectStyle": "PackageReference",
